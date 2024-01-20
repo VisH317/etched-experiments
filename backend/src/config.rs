@@ -1,0 +1,1 @@
+// some chip-level and cuda vars to use

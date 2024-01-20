@@ -5,4 +5,5 @@
     register_attr(nvvm_internal)
 )]
 
-use cuda_std::*;
+pub mod infra;
+pub mod config;
